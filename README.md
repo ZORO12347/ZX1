@@ -1,2 +1,3 @@
 # ZX1
-GITHUB new file
+#GITHUB new file
+#commands, pull, push, staging
